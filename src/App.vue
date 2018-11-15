@@ -16,6 +16,7 @@ export default {
     'v-navber':navber,
   }
 }
+
 </script>
 <style>
 @import "./assets/css/bootstrap.min.css";

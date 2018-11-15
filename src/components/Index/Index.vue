@@ -163,6 +163,7 @@ export default({
     }
   },
   created() {
+    console.log(this.$store.state.count);
     this.job_index_fun();
     this.evaluate_sj_fun();
   }
